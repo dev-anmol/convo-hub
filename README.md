@@ -26,7 +26,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-=======
-# chat-app-socketio
-created a chat application using web sockets (socket.io) in angular
->>>>>>> 47661d04df2393cf08f649011304e582c8892031
